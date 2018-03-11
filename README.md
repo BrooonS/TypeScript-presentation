@@ -21,7 +21,7 @@ Loader install
 
 `npm install --save-dev typescript ts-loader`
 
-Create config `tsconfig.json` in root folder
+Create config `tsconfig.json` in root folder.
 
 ```JSON
 {
