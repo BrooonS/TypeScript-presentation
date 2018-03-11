@@ -58,6 +58,10 @@ module.exports = {
 
 [More in Microsoft repository](https://github.com/Microsoft/TypeScript-Vue-Starter#typescript-vue-starter)
 
+## Playground
+
+[On TypeScipt site has a playground.](https://www.typescriptlang.org/play/index.html)
+
 ## Author
 
 [BrooonS](http://github.com/brooons)
