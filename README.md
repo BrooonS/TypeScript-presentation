@@ -26,7 +26,7 @@ Create config `tsconfig.json` in root folder
 ```JSON
 {
   "compilerOptions": {
-    "module": "es6", // or commonjs
+    "module": "es6",
     "target": "es5",
     "noImplicitAny": false,
     "sourceMap": false
