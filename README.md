@@ -1,6 +1,6 @@
 # TypeScript presentation
 
-It's a small presentation of TypeScript.
+`const obj = {}; obj.item = 'value'; ` **NO!**
 
 ## Description
 
@@ -9,9 +9,19 @@ TypeScript - is an open-source programming language developed and maintained by 
 ### Advantage
 
 - Static typing.
-- Compiles to nice JavaScript.
-- Native code is well read, it is easy to understand.
+- Compiles to nice JavaScript. Native code is well read, it is easy to understand.
 - The compiler will find and will give a type mismatch error before the compile.
+
+## Microsoft Visual Studio Code (VS Code)
+
+VS Code + TypeScript = ❤!
+
+VS Code was created using TypeScript. And of course they have a great relationship.
+
+- Output errors directly in the editor before compilation
+- Excellent syntax highlighting
+- Tooltips
+- And more... after installation
 
 ## Install
 
@@ -28,7 +38,6 @@ Create config `tsconfig.json` in root folder.
   "compilerOptions": {
     "module": "es6",
     "target": "es5",
-    "noImplicitAny": false,
     "sourceMap": false
   },
   "include": [
@@ -56,11 +65,12 @@ module.exports = {
 };
 ```
 
-[More in Microsoft repository](https://github.com/Microsoft/TypeScript-Vue-Starter#typescript-vue-starter)
 
-## Playground
+## Links
 
-[On TypeScipt site has a playground.](https://www.typescriptlang.org/play/index.html)
+- [More in Microsoft repository](https://github.com/Microsoft/TypeScript-Vue-Starter#typescript-vue-starter)
+- [On TypeScipt site has a playground.](https://www.typescriptlang.org/play/index.html)
+- [Russian documentation.](http://typescript-lang.ru/docs/)
 
 ## Author
 
