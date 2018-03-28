@@ -1,6 +1,8 @@
 # TypeScript presentation
 
-`const obj = {}; obj.item = 'value'; ` **NO!**
+It a very small presentation on TypeScript.
+
+`const obj = {}; obj.item = 'value';` **NO!**
 
 ## Description
 
